@@ -12,8 +12,8 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 org_settings: 
- fleet_desktop:
-   transparancey_url: https://catsoftheday.com
+fleet_desktop:
+   transparancey_url: https://catoftheday.com
   host_expiry_settings:
    host_expiry_enabked: true
    host_expiry_windows: 30 
