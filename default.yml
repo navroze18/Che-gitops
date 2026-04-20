@@ -11,13 +11,18 @@
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-org_settings: 
+org_settings:
   fleet_desktop:
-    transparancey_url: https://catoftheday.com
+    transparency_url: https://catoftheday.com
+
   host_expiry_settings:
-   host_expiry_enabked: true
-   host_expiry_windows: 30 
+    host_expiry_enabled: true
+    host_expiry_window: 30
+
   org_info:
+    org_name: EMBL_EBI
+
+  
     ###########################################################
     # The name of your organization is displayed to end users
     # during the setup experience for new hardware, and to admins
