@@ -22,6 +22,11 @@ org_settings:
   org_info:
     org_name: EMBL_EBI
 
+  webhook_settings:
+    activities_webhook:
+      enable_activities_webhook: true
+      destination_url: https://webhook.site/cc0d62ca-ad03-4a1d-99e0-c0d660d84bdb
+
   
     ###########################################################
     # The name of your organization is displayed to end users
