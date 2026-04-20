@@ -11,7 +11,12 @@
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-org_settings:
+org_settings: 
+ fleet_desktop:
+   transparancey_url: https://catsoftheday.com
+  host_expiry_settings:
+   host_expiry_enabked: true
+   host_expiry_windows: 30 
   org_info:
     ###########################################################
     # The name of your organization is displayed to end users
